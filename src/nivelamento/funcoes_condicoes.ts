@@ -18,8 +18,8 @@ function verificarIdade(usuarioAtual: usuario){
             anos e pode jogar nosso joguinho muito massa de pei pei🔫!`);
     }else{
         console.log(`EI ${usuarioAtual.nick} 
-            É de menor pode ta pei pei não tem só 
-            ${usuarioAtual.age} anos um bebê 👶`);
+            É de menor pode dá pei pei não tem só 
+            ${usuarioAtual.age} anos, um bebê 👶`);
     }
 };
 verificarIdade(jogador);

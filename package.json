@@ -23,6 +23,7 @@
   "homepage": "https://github.com/alisonmelo/portifolio-automacao-com-typescript#readme",
   "devDependencies": {
     "tsx": "^4.23.13",
-    "typescript": "^7.0.2"
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.0"
   }
 }
