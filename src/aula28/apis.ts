@@ -40,6 +40,10 @@ async function listarComent(postId:number) {
     console.log(`O post ${postId} tem ${dados.length} comentarios.
             Ex: Email do primeiro comentario.`, dados[0].email);
 }
+
+
+
+
 async function chamarReqs(){
     listarPosts();
     buscarPorId(1);
